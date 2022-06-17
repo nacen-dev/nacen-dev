@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋 I'm Vincent a Full Stack Web Developer
 
-<!--
-**nacen-dev/nacen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ⚡
+I’m self-driven and passionate about technology especially when it comes to Web development, I like solving problems and helping people by bridging them with technology to efficiently and effectively solve problems. In my spare time I enjoy reading, gaming, and studying about what's new in programming.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 📫
+[<img alt="Vincent's Linkedin Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nacen-dev/)
+[](mailto:nacen.dev@gmail.com)
+
+
+### Languages and Tools
+
+<div>
+  
+</div>
+
+<br />
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nacen-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacen-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
