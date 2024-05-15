@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Vincent a Full Stack Web Developer
+# Hi there 👋 I'm Vincent a Full Stack Developer
 
 ## About Me ⚡
-I’m self-driven and passionate about technology especially when it comes to Web development, I like solving problems and helping people by bridging them with technology to efficiently and effectively solve problems. In my spare time I enjoy reading, gaming, and studying about what's new in programming.
+I'm a self-driven web developer with a passion for technology. I excel in creating efficient and effective solutions by bridging gaps with innovative tech. I enjoy solving problems and helping people navigate the digital world. Outside of work, I love reading, gaming, and exploring new software tools. My goal is to continually grow my skills and contribute to impactful projects.
 
 <br />
 
@@ -29,6 +29,7 @@ I’m self-driven and passionate about technology especially when it comes to We
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint icon" />
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier icon" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </div>
 
 <br />
